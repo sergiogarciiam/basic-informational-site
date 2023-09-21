@@ -4,7 +4,7 @@ A basic website created with node and express
 
 This project is from [The Odin Project](https://www.theodinproject.com/lessons/nodejs-basic-informational-site) curriculum.
 
-## How to use
+## How to Use
 
 - Install dependencies: ```npm install```
 
