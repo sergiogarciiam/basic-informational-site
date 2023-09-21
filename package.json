@@ -5,8 +5,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "app-node": "nodemon src/app-node",
-    "app-express": "nodemon src/app-express"
+    "node-app": "nodemon src/node-app",
+    "express-app": "nodemon src/express-app"
   },
   "author": "",
   "license": "ISC",

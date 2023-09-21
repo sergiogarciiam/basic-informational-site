@@ -2,7 +2,7 @@ const http = module.require("node:http");
 const path = module.require("node:path");
 const fs = module.require("node:fs");
 
-const port = 8000;
+const port = 8080;
 
 const server = http.createServer(processRequest);
 server.listen(port, () =>
